@@ -1,5 +1,5 @@
 # Dribble-mania
-
+---
 
 ## Overview
 
@@ -14,8 +14,8 @@ This project is a clone of the popular website, dribbble . It functions similarl
 - Sort by ratings
 - Filter by username
 - Multiple filters functionality
--  Proceed to single production description
--  checkout functionality
+- Proceed to single production description
+- checkout functionality
 
 ## Technologies Used
 
@@ -29,5 +29,5 @@ This project is a clone of the popular website, dribbble . It functions similarl
 
 ![Another Page](https://github.com/vsachin42/tangy-instrument-3367/assets/102285506/6e12abad-dfbb-45e5-8be7-08891b2078fb)
 
-n42/tangy-instrument-3367/assets/102285506/bc9f291c-6a0f-44be-b0ba-b1847da48983)
+(n42/tangy-instrument-3367/assets/102285506/bc9f291c-6a0f-44be-b0ba-b1847da48983)
 
